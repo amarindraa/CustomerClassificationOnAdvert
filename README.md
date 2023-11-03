@@ -6,7 +6,7 @@ In this project, we have been given a task to evaluate advertising policy at e-c
 1. ratio on clicked ads and not-clicked
 ![enter image description here](https://github.com/amarindraa/CustomerClassificationOnAdvert/blob/main/figs/Slide5.jpeg)
 
-2. EDA on features
+2. EDA on features            <br/>
 ![enter image description here](figs/Slide7.jpeg)     
 3. ![enter image description here](figs/Slide8.jpeg)
 4. ![enter image description here](figs/Slide12.jpeg)
